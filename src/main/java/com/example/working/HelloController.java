@@ -9,7 +9,7 @@ public class HelloController {
     @GetMapping("/hello")
     public String home() {
         return """
-		<font color=red><h1>Welcome all to CI/CD poposdfg changed
+		<font color=red><h1>Welcome all to CI/CD project
 		""";
     }
 }
